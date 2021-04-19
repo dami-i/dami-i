@@ -8,7 +8,7 @@ My daily goals are usually one of these:
 - Find a new problem that needs to be solved;
 - Detect companies' workflows that could be improved with a little help from technology;
 - Discover out new subjects to learn;
-- Master a subject to teach others.
+- Master a subject to teach others (mainly for free on a portal I've been working on).
 
 ### Knowledge summary
 
