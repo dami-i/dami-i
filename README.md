@@ -1,6 +1,6 @@
 ## Hey! I'm Dami! 👋 👨‍💻 👨‍🏫 👨‍🎓
 
-I'm a full stack JavaScript web developer based in Curitiba, Brazil.
+I'm a full stack JavaScript web developer with business knowledge based in Curitiba, Brazil.
 
 ### What I wake up every day for
 
