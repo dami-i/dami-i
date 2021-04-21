@@ -9,6 +9,7 @@ My daily goals are usually one of these:
 - Detect companies' workflows that could be improved with a little help from technology;
 - Discover new subjects to learn;
 - Master a subject to teach others (mainly for free).
+<!-- - Run {bracketz.one}. -->
 
 ---
 
