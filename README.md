@@ -35,7 +35,7 @@ My daily goals are usually one of these:
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white) ![ElectronJS](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) <br />
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Dgraph](https://img.shields.io/badge/Dgraph-E50695?style=for-the-badge&logo=dgraph&logoColor=white) <br />
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) <br /> ![Socket.io](https://img.shields.io/badge/Socket.io-151515?style=for-the-badge&logo=socket.io&logoColor=white) <br />
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-151515?style=for-the-badge&logo=socket.io&logoColor=white) <br />
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
 
 ### Tools and others
