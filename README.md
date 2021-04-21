@@ -27,7 +27,7 @@ I'm a full stack JavaScript web developer with business knowledge based in Curit
 ![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white) ![Adobe Xd](https://img.shields.io/badge/Adobe_Xd-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white) <br />
 ![ClickUP](https://img.shields.io/badge/ClickUP-7B68EE?style=flat-square&logo=clickup&logoColor=white) <br />
 
-### 📖 Join me if you want to learn together right now:
+### 📖 Join me if you want in a learning journey of:
 
 [![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)](https://svelte.dev/) [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
 
