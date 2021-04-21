@@ -27,16 +27,16 @@ My daily goals are usually one of these:
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br />
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-#### ⚡ I can learn fast if needed
-
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white) 
-
 #### 💡 Wishing to learn in a near future
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white) ![ElectronJS](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) <br />
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Dgraph](https://img.shields.io/badge/Dgraph-E50695?style=for-the-badge&logo=dgraph&logoColor=white) <br />
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-151515?style=for-the-badge&logo=socket.io&logoColor=white) <br />
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
+
+#### ⚡ I can learn fast if needed
+
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white) 
 
 ### Tools and others
 
