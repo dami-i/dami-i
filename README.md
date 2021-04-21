@@ -44,7 +44,8 @@ My daily goals are usually one of these:
 ![ClickUP](https://img.shields.io/badge/ClickUP-7B68EE?style=flat-square&logo=clickup&logoColor=white) <br />
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Access](https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) <br />
 ![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=flat-square&logo=ableton-live&logoColor=white) <br />
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/InDesign-ff3366?style=flat-square&logo=adobe-indesign&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/InDesign-ff3366?style=flat-square&logo=adobe-indesign&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white) <br />
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-eeeeee?style=flat-square&logo=apple&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 <!-- ### Currently working on -->
 
