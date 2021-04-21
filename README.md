@@ -5,7 +5,7 @@ I'm a full stack JavaScript web developer with business knowledge based in Curit
 ### What I wake up every day for
 
 My daily goals are usually one of these:
-- Find a new problem that needs to be solved;
+- Find a new problem to be solved;
 - Detect companies' workflows that could be improved with a little help from technology;
 - Discover new subjects to learn;
 - Master a subject to teach others (mainly for free).
