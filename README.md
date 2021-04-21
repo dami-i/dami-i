@@ -1,4 +1,4 @@
-## Hey! I'm Dami! 👋 👨‍💻 👨‍🏫 👨‍🎓
+## Hey! I'm Dami! 👋 👨‍💻 👨‍🎓 👨‍🏫
 
 I'm a full stack JavaScript web developer with business knowledge based in Curitiba, Brazil.
 
