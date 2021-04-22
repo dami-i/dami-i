@@ -23,9 +23,9 @@ I'm a full stack JavaScript web developer with business knowledge based in Curit
 
 ### 🧰 ...with the help of these tools:
 
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-E34F26?style=flat-square&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white) <br />
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white) ![Adobe Xd](https://img.shields.io/badge/Adobe_Xd-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white) <br />
-![ClickUP](https://img.shields.io/badge/ClickUP-7B68EE?style=flat-square&logo=clickup&logoColor=white) <br />
+[![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Postman](https://img.shields.io/badge/Postman-E34F26?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/dami-i/) [![NPM](https://img.shields.io/badge/npm-f2f2f2?style=flat-square&logo=npm&logoColor=CB0000)](https://www.npmjs.com/) [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)](https://yarnpkg.com/) [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org/) [![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white)](https://gulpjs.com/) <br />
+[![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/) [![Adobe Xd](https://img.shields.io/badge/Adobe_Xd-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)](https://www.adobe.com/products/xd.html) <br />
+[![ClickUP](https://img.shields.io/badge/ClickUP-7B68EE?style=flat-square&logo=clickup&logoColor=white)](https://clickup.com/) <br />
 
 ### 📖 Join me if you want in a learning journey of:
 
@@ -42,14 +42,14 @@ I'm a full stack JavaScript web developer with business knowledge based in Curit
 #### ⚡ If you need some of these technologies for your project, I can learn them fast:
 
 [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/) [![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/) [![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white)](https://emberjs.com/) <br />
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/) [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
 
 ### Side knowledge:
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Access](https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) <br />
-![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=flat-square&logo=ableton-live&logoColor=white) <br />
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/InDesign-ff3366?style=flat-square&logo=adobe-indesign&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white) <br />
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/MacOS-eeeeee?style=flat-square&logo=apple&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)]() [![Access](https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)]() [![VBA](https://img.shields.io/badge/VBA-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)]() <br />
+[![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=flat-square&logo=ableton-live&logoColor=white)](https://www.ableton.com/) <br />
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31a8ff?style=flat-square&logo=adobe-photoshop&logoColor=white)]() [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-ff9a00?style=flat-square&logo=adobe-illustrator&logoColor=white)]() [![Adobe InDesign](https://img.shields.io/badge/InDesign-ff3366?style=flat-square&logo=adobe-indesign&logoColor=white)]() [![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white)](https://affinity.serif.com/en-us/designer/) <br />
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)]() [![MacOS](https://img.shields.io/badge/MacOS-eeeeee?style=flat-square&logo=apple&logoColor=black)]() [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]()
 
 <!-- ### Currently working on -->
 
