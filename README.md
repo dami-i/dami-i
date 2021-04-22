@@ -27,11 +27,11 @@ I'm a full stack JavaScript web developer with business knowledge based in Curit
 [![Figma](https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/) [![Adobe Xd](https://img.shields.io/badge/Adobe_Xd-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)](https://www.adobe.com/products/xd.html) <br />
 [![ClickUP](https://img.shields.io/badge/ClickUP-7B68EE?style=flat-square&logo=clickup&logoColor=white)](https://clickup.com/) <br />
 
-### 📖 Join me if you want in a learning journey of:
+### 📖 I'm currently learning:
 
 [![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)](https://svelte.dev/) [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io/)
 
-#### 📚 ...or in a near future:
+#### 📚 ...and intend to learn in a near future:
 
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/) [![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)](https://adonisjs.com/) [![ElectronJS](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/) [![D3.JS](https://img.shields.io/badge/D3.JS-f9a03c?style=for-the-badge&logo=d3.js&logoColor=white)](https://d3js.org/) [![TensorFlowJS](https://img.shields.io/badge/TensorFlow.JS-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/js) <br />
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/) <br />
@@ -39,7 +39,7 @@ I'm a full stack JavaScript web developer with business knowledge based in Curit
 [![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)](https://webrtc.org/) [![Socket.io](https://img.shields.io/badge/Socket.io-151515?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/) <br />
 [![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)](https://deno.land/)
 
-#### ⚡ If you need some of these technologies for your project, I can learn them fast:
+#### ⚡ If you need some of the following technologies for your project, I can learn them fast:
 
 [![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://www.gatsbyjs.com/) [![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/) [![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?style=for-the-badge&logo=ember.js&logoColor=white)](https://emberjs.com/) <br />
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/) [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
