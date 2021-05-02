@@ -37,6 +37,7 @@ I'm a full stack JavaScript web developer with business knowledge based in Curit
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/) <br />
 [![GraphQL](https://img.shields.io/badge/GraphQL-171E26?style=for-the-badge&logo=graphql&logoColor=E00098)](https://graphql.org/) [![Dgraph](https://img.shields.io/badge/Dgraph-E50695?style=for-the-badge&logo=dgraph&logoColor=white)](https://dgraph.io/) <br />
 [![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)](https://webrtc.org/) [![Socket.io](https://img.shields.io/badge/Socket.io-151515?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/) <br />
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)<br />
 [![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)](https://deno.land/)
 
 #### ⚡ If you need some of the following technologies for your project, I can learn them fast:
