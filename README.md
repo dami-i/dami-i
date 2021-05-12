@@ -1,6 +1,8 @@
 ## Hey! I'm Dami! 👋 👨‍💻 👨‍🎓 👨‍🏫
 
-I'm a full stack JavaScript web developer with business knowledge based in Curitiba, Brazil. 🇧🇷
+I'm a full stack JavaScript developer with business knowledge based in Curitiba, Brazil. 🟩🟨
+
+My main goal is to use technology to help companies reduce costs and improve overall effectiveness.
 
 ### ☕ I wake up every day to...
 
@@ -9,6 +11,12 @@ I'm a full stack JavaScript web developer with business knowledge based in Curit
 - Discover new subjects to learn;
 - Master a subject to teach others (mainly for free).
 <!-- - Run {bracketz.one}. -->
+
+---
+
+### ✉ Get in touch
+
+<dami@dami.com.br>
 
 ---
 
@@ -53,12 +61,6 @@ I'm a full stack JavaScript web developer with business knowledge based in Curit
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/dami-i) [![MacOS](https://img.shields.io/badge/MacOS-eeeeee?style=flat-square&logo=apple&logoColor=black)](https://github.com/dami-i) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://github.com/dami-i)
 
 <!-- ### Currently working on -->
-
----
-
-### ✉ Get in touch
-
-<dami@dami.com.br>
 
 ---
 
