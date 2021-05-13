@@ -7,7 +7,7 @@ My main goal is to use technology to help people have a better work, companies r
 ### ☕ I wake up every day to...
 
 - Find a new problem to be solved;
-- Detect companies' workflows that could be improved with a little help from technology;
+- Detect workflows that could be improved with a little help from technology;
 - Discover new subjects to learn;
 - Master a subject to teach others (mainly for free).
 <!-- - Run {bracketz.one}. -->
