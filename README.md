@@ -2,7 +2,7 @@
 
 I'm a full stack developer with business knowledge based in Curitiba, Brazil. 🟩🟨
 
-My main goal is to use technology to help people have a better work, companies reduce costs and improve their overall effectiveness.
+My main goal is to use technology to help people have a better work day, companies reduce costs and improve their overall effectiveness.
 
 ### ☕ I wake up every day to...
 
